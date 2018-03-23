@@ -1753,6 +1753,7 @@
 		position: relative;
 		margin-top: 9em;
 		margin-bottom: 0;
+		opacity: 0.85;
 	}
 
 		.box:after {
